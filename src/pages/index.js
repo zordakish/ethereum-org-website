@@ -1068,7 +1068,7 @@ export const query = graphql`
         }
       }
     }
-    merge: file(relativePath: { eq: "eth2/merge.png" }) {
+    merge: file(relativePath: { eq: "eth2/core.png" }) {
       childImageSharp {
         fixed(width: 320) {
           ...GatsbyImageSharpFixed
