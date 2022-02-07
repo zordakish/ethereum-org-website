@@ -127,6 +127,9 @@ module.exports = {
         // See: https://www.gatsbyjs.org/docs/mdx/plugins/
         gatsbyRemarkPlugins: [
           {
+            resolve: require.resolve(`./plugins/gatsby-remark-image-path`),
+          },
+          {
             resolve: `gatsby-remark-autolink-headers`,
             options: {
               enableCustomId: true,
