@@ -1,6 +1,6 @@
 # Editing Pages (Markdown Files)
 
-- On developer docs page click on `Edit Page`
+## On developer docs page click on `Edit Page` ##
 - You need to be signed in to GitHub
   - Go to [GitHub](https://github.com/join) to create an account.
   - Here's an [article](https://www.wikihow.com/Create-an-Account-on-GitHub) to guide you through the process.
